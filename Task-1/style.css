@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.header {
+    text-align: center;
+}
+
+.header img {
+    width: 150px;
+}
+
+.content h1 {
+    font-size: 36px;
+    color: #333;
+}
+
+.content p {
+    font-size: 18px;
+    color: #666;
+}
+
+.footer {
+    font-size: 14px;
+    color: #999;
+}
