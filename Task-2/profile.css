@@ -12,6 +12,7 @@ p {
   justify-content: space-between;
   align-items: center;
   gap: 10px;
+  font-family: Arial, sans-serif;
   border: 1px solid black;
 }
 
